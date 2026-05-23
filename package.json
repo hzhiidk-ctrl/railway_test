@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "minecraft-protocol": "^1.66.2",
+    "mineflayer": "^4.37.1"
+  }
+}
